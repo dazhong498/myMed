@@ -1,0 +1,4 @@
+.card mb-4 box-shadw gridd{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
